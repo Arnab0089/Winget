@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 
 app.use(express.json());
 
-connectDB();
+await connectDB();
 
 app.use(cors());
 
