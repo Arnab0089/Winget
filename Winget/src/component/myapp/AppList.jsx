@@ -2,7 +2,7 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react';
 import { format } from 'date-fns';
 import { AnimatePresence, motion } from 'framer-motion';
-import AppTable from './AppTable';
+import AppTable from '../myapp/AppTable';
 import { RiFileList3Fill } from 'react-icons/ri';
 import { GrLinkPrevious } from 'react-icons/gr';
 import { GrLinkNext } from 'react-icons/gr';
