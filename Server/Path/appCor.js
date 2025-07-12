@@ -93,7 +93,7 @@ router.get('/rawFile/:id', verifyToken, async (req, res) => {
   }
 });
 
-router.get('/:id', verifyToken, async (req, res) => {
+router.get('/getid', verifyToken, async (req, res) => {
   try {
     const appList = await AppListModel.findById(req.params.id);
     if (!appList) {
