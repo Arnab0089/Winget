@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Login from './auth/LogIn';
 import Signup from './auth/Signup';
 import { ToastContainer } from 'react-toastify';
-import MyApp from './component/Myapp/AppList';
+import List from './component/myapp/List';
 import MyScript from './component/myapp/MyScript/MyScript';
 import FullScript from './component/myapp/MyScript/FullScript';
 
@@ -20,7 +20,7 @@ export default function App() {
             <Route path="/" element={<Script />} />
             <Route path="/login" element={<Login />} />
             <Route path="/signup" element={<Signup />} />
-            <Route path="/myapps" element={<MyApp />} />
+            <Route path="/myapps" element={<List />} />
             <Route path="/script/:id" element={<MyScript />} />
             <Route path="/rawfile/:id" element={<FullScript />} />
           </Routes>
