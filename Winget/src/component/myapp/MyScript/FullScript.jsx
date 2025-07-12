@@ -1,6 +1,7 @@
 import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
+import { API_URL } from '../../../Api/URL';
 
 export default function FullScript() {
   const [rawFile, setRawFile] = useState('');
@@ -11,14 +12,11 @@ export default function FullScript() {
   useEffect(() => {
     const getRawFile = async () => {
       try {
-        const response = await axios.get(
-          `http://localhost:8000/apps/rawfile/${id}`,
-          {
-            headers: {
-              Authorization: `Bearer ${token}`,
-            },
+        const response = await axios.get(`${API_URL}/apps/rawfile/${id}`, {
+          headers: {
+            Authorization: `Bearer ${token}`,
           },
-        );
+        });
         setRawFile(response.data.rawFile); // ✅ now setting the state
       } catch (err) {
         console.error('Error fetching raw file:', err);

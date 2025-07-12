@@ -4,6 +4,7 @@ import DataTable from 'react-data-table-component';
 import { AnimatePresence, motion } from 'framer-motion';
 import tableStyle from './TableStyle';
 import { useParams } from 'react-router-dom';
+import { API_URL } from '../../../Api/URL';
 
 export default function MyScript() {
   const [appList, setAppList] = useState([]);
@@ -37,7 +38,7 @@ export default function MyScript() {
 
   const getAppLists = async () => {
     try {
-      const response = await axios.get('http://localhost:8000/apps/myapps', {
+      const response = await axios.get(`${API_URL}/apps/myapps`, {
         headers: {
           Authorization: `Bearer ${token}`,
         },

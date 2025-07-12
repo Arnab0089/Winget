@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { handleError, handleSuccess } from '../utils/alert';
+import { API_URL } from '../Api/URL';
 
 export default function Signup() {
   const [form, setForm] = useState({ name: '', email: '', password: '' });
@@ -17,10 +18,7 @@ export default function Signup() {
     e.preventDefault();
     setLoading(true);
     try {
-      const response = await axios.post(
-        'http://localhost:8000/auth/signup',
-        form,
-      );
+      const response = await axios.post(`${API_URL}/auth/signup`, form);
       if (response.status === 201) {
         handleSuccess('Account created successfully!');
         setTimeout(() => {

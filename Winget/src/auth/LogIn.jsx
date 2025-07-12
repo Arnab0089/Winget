@@ -4,6 +4,7 @@ import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { handleError, handleSuccess } from '../utils/alert';
 import { useAuth } from '../context/authContext';
+import { API_URL } from '../Api/URL';
 
 export default function Login({ onLogin }) {
   const [form, setForm] = useState({ email: '', password: '' });
@@ -17,10 +18,7 @@ export default function Login({ onLogin }) {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post(
-        'http://localhost:8000/auth/login',
-        form,
-      );
+      const response = await axios.post(`${API_URL}/auth/login`, form);
 
       if (response.data.jwtToken) {
         login(response.data.jwtToken);

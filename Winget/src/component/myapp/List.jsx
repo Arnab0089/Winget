@@ -7,6 +7,7 @@ import { RiFileList3Fill } from 'react-icons/ri';
 import { GrLinkPrevious } from 'react-icons/gr';
 import { GrLinkNext } from 'react-icons/gr';
 import { useNavigate, useParams } from 'react-router-dom';
+import { API_URL } from '../../../Api/URL';
 
 export default function MyApp() {
   const [applists, setApplists] = useState([]);
@@ -19,7 +20,7 @@ export default function MyApp() {
 
   const getAppLists = async () => {
     try {
-      const response = await axios.get('http://localhost:8000/apps/myapps', {
+      const response = await axios.get(`${API_URL}/apps/myapps`, {
         headers: {
           Authorization: `Bearer ${token}`,
         },
