@@ -7,7 +7,7 @@ import { RiFileList3Fill } from 'react-icons/ri';
 import { GrLinkPrevious } from 'react-icons/gr';
 import { GrLinkNext } from 'react-icons/gr';
 import { useNavigate, useParams } from 'react-router-dom';
-import { API_URL } from '../../../Api/URL';
+import { API_URL } from '../../Api/URL';
 
 export default function MyApp() {
   const [applists, setApplists] = useState([]);
