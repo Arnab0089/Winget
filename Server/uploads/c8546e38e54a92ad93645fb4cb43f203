@@ -1,0 +1,867 @@
+﻿[
+    {
+        "Name":  "7-Zip 24.09 (x64)",
+        "Id":  "7zip.7zip",
+        "Version":  "24.09"
+    },
+    {
+        "Name":  "Android Studio",
+        "Id":  "Google.AndroidStudio",
+        "Version":  "2025.1.1.13"
+    },
+    {
+        "Name":  "Git",
+        "Id":  "Git.Git",
+        "Version":  "2.49.0"
+    },
+    {
+        "Name":  "Notepad++ (64-bit x64)",
+        "Id":  "Notepad++.Notepad++",
+        "Version":  "8.8.2"
+    },
+    {
+        "Name":  "Microsoft OneDrive",
+        "Id":  "Microsoft.OneDrive",
+        "Version":  "25.115.0615.0002"
+    },
+    {
+        "Name":  "Parsec Virtual USB Adapter Driver",
+        "Id":  "ARP\\Machine\\X64\\ParsecVUD",
+        "Version":  "0.2.8.0"
+    },
+    {
+        "Name":  "Microsoft Office Professional Plus 2024 -ΓÇª ARP\\Machine\\X64\\ProPlus2024Retail - en-us",
+        "Id":  "16.0.18925.20138",
+        "Version":  ""
+    },
+    {
+        "Name":  "One-armed robber",
+        "Id":  "ARP\\Machine\\X64\\Steam App 2551020",
+        "Version":  "Unknown"
+    },
+    {
+        "Name":  "VLC media player",
+        "Id":  "VideoLAN.VLC",
+        "Version":  "3.0.21"
+    },
+    {
+        "Name":  "WinRAR 7.12 (64-bit)",
+        "Id":  "RARLab.WinRAR",
+        "Version":  "7.12.0"
+    },
+    {
+        "Name":  "WizTree v4.26",
+        "Id":  "AntibodySoftware.WizTree",
+        "Version":  "4.26"
+    },
+    {
+        "Name":  "XAMPP",
+        "Id":  "ApacheFriends.Xampp.8.2",
+        "Version":  "8.2.12"
+    },
+    {
+        "Name":  "Google Chrome",
+        "Id":  "Google.Chrome",
+        "Version":  "138.0.7204.97"
+    },
+    {
+        "Name":  "MySQL Shell",
+        "Id":  "ARP\\Machine\\X64\\{2D35FC76-5688-4C8A-B790-ΓÇª 8.0.42",
+        "Version":  ""
+    },
+    {
+        "Name":  "Node.js",
+        "Id":  "OpenJS.NodeJS",
+        "Version":  "24.3.0"
+    },
+    {
+        "Name":  "DaVinci Resolve",
+        "Id":  "ARP\\Machine\\X64\\{6CEC33C5-0A45-4E3B-881F-ΓÇª 20.0.00049",
+        "Version":  ""
+    },
+    {
+        "Name":  "4K Video Downloader",
+        "Id":  "OpenMedia.4KVideoDownloader",
+        "Version":  "4.33.5.0172"
+    },
+    {
+        "Name":  "Tailscale",
+        "Id":  "Tailscale.Tailscale",
+        "Version":  "1.84.2"
+    },
+    {
+        "Name":  "MySQL Server 8.0",
+        "Id":  "ARP\\Machine\\X64\\{A12B0204-7560-4821-9D34-ΓÇª 8.0.42",
+        "Version":  ""
+    },
+    {
+        "Name":  "Adobe Acrobat (64-bit)",
+        "Id":  "Adobe.Acrobat.Reader.64-bit",
+        "Version":  "24.005.20320"
+    },
+    {
+        "Name":  "NVIDIA Graphics Driver 576.52",
+        "Id":  "ARP\\Machine\\X64\\{B2FE1952-0186-46C3-BAEC-ΓÇª 576.52",
+        "Version":  ""
+    },
+    {
+        "Name":  "NVIDIA App 11.0.3.241",
+        "Id":  "ARP\\Machine\\X64\\{B2FE1952-0186-46C3-BAEC-ΓÇª 11.0.3.241",
+        "Version":  ""
+    },
+    {
+        "Name":  "NVIDIA PhysX System Software 9.23.1019",
+        "Id":  "Nvidia.PhysX",
+        "Version":  "9.23.1019"
+    },
+    {
+        "Name":  "NVIDIA HD Audio Driver 1.4.3.2",
+        "Id":  "ARP\\Machine\\X64\\{B2FE1952-0186-46C3-BAEC-ΓÇª 1.4.3.2",
+        "Version":  ""
+    },
+    {
+        "Name":  "Go Programming Language amd64 go1.24.4",
+        "Id":  "GoLang.Go",
+        "Version":  "1.24.4"
+    },
+    {
+        "Name":  "Microsoft Update Health Tools",
+        "Id":  "ARP\\Machine\\X64\\{C6FD611E-7EFE-488C-A0E0-ΓÇª 5.72.0.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "MySQL Workbench 8.0 CE",
+        "Id":  "Oracle.MySQLWorkbench",
+        "Version":  "8.0.42"
+    },
+    {
+        "Name":  "Adobe Creative Cloud",
+        "Id":  "Adobe.CreativeCloud",
+        "Version":  "6.6.0.611"
+    },
+    {
+        "Name":  "Call of Duty: Black Ops 3",
+        "Id":  "ARP\\Machine\\X86\\Call of Duty: Black Ops 3ΓÇª Unknown",
+        "Version":  ""
+    },
+    {
+        "Name":  "Call of Duty: WWII",
+        "Id":  "ARP\\Machine\\X86\\Call of Duty: WWII_is1",
+        "Version":  "Unknown"
+    },
+    {
+        "Name":  "HandBrake 1.9.2",
+        "Id":  "HandBrake.HandBrake",
+        "Version":  "1.9.2"
+    },
+    {
+        "Name":  "Adobe Illustrator 2025",
+        "Id":  "ARP\\Machine\\X86\\ILST_29_1",
+        "Version":  "29.1"
+    },
+    {
+        "Name":  "Microsoft Edge",
+        "Id":  "Microsoft.Edge",
+        "Version":  "138.0.3351.77"
+    },
+    {
+        "Name":  "Adobe Photoshop 2025",
+        "Id":  "ARP\\Machine\\X86\\PHSP_26_2",
+        "Version":  "26.2.0.140"
+    },
+    {
+        "Name":  "Parsec",
+        "Id":  "Parsec.Parsec",
+        "Version":  "150.99.0.0"
+    },
+    {
+        "Name":  "Rockstar Games Launcher",
+        "Id":  "ARP\\Machine\\X86\\Rockstar Games Launcher",
+        "Version":  "1.0.103.2507"
+    },
+    {
+        "Name":  "Rockstar Games SDK",
+        "Id":  "ARP\\Machine\\X86\\Rockstar Games Social Club 2.4.0.94",
+        "Version":  ""
+    },
+    {
+        "Name":  "Steam",
+        "Id":  "Valve.Steam",
+        "Version":  "2.10.91.91"
+    },
+    {
+        "Name":  "TurboVPN 2.26.0.0 stable",
+        "Id":  "ARP\\Machine\\X86\\TurboVPN",
+        "Version":  "2.26.0.0 stable"
+    },
+    {
+        "Name":  "UXP WebView Support",
+        "Id":  "ARP\\Machine\\X86\\UXPW_1_2_0",
+        "Version":  "1.2.0"
+    },
+    {
+        "Name":  "Lenovo Vantage Service",
+        "Id":  "ARP\\Machine\\X86\\VantageSRV_is1",
+        "Version":  "4.3.50.0"
+    },
+    {
+        "Name":  "Wise Program Uninstaller 3.1.1",
+        "Id":  "WiseCleaner.WiseProgramUninstaller",
+        "Version":  "3.1.1"
+    },
+    {
+        "Name":  "qBittorrent",
+        "Id":  "qBittorrent.qBittorrent",
+        "Version":  "5.1.2"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2013 RedistributableΓÇª Microsoft.VCRedist.2013.x64",
+        "Id":  "12.0.40664.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2015-2022 RedistribuΓÇª Microsoft.VCRedist.2015+.x86",
+        "Id":  "14.44.35211.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Mettl Secure Browser",
+        "Id":  "ARP\\Machine\\X86\\{1ff2d653-e0d0-4c3b-9e60-ΓÇª 39.0.1.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Epic Online Services",
+        "Id":  "ARP\\Machine\\X86\\{5122B8BC-D6DF-48FF-8D4E-ΓÇª 2.8.1",
+        "Version":  ""
+    },
+    {
+        "Name":  "Wondershare Helper Compact 2.6.0",
+        "Id":  "ARP\\Machine\\X86\\{5363CE84-5F09-48A1-8B6C-ΓÇª 2.6.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "MySQL Installer",
+        "Id":  "Oracle.MySQL",
+        "Version":  "8.0.42"
+    },
+    {
+        "Name":  "Microsoft Windows Desktop Runtime - 8.0.1ΓÇª Microsoft.DotNet.DesktopRuntime.8",
+        "Id":  "8.0.17",
+        "Version":  "8.0.18"
+    },
+    {
+        "Name":  "Lenovo Now",
+        "Id":  "ARP\\Machine\\X86\\{622FA116-13E7-4BB6-839C-ΓÇª 4.2.2.25",
+        "Version":  ""
+    },
+    {
+        "Name":  "Python Launcher",
+        "Id":  "Python.Launcher",
+        "Version":  "3.12.10"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2013 RedistributableΓÇª Microsoft.VCRedist.2013.x86",
+        "Id":  "12.0.40664.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Epic Games Launcher",
+        "Id":  "EpicGames.EpicGamesLauncher",
+        "Version":  "1.3.128.0"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2015-2022 RedistribuΓÇª Microsoft.VCRedist.2015+.x64",
+        "Id":  "14.44.35211.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Gmail",
+        "Id":  "ARP\\User\\X64\\169e26660d8c20ab0fcc35a4fee4ΓÇª 1.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Canva",
+        "Id":  "Canva.Canva",
+        "Version":  "1.111.0"
+    },
+    {
+        "Name":  "YouTube",
+        "Id":  "ARP\\User\\X64\\82743720a134bbdfc1d9e0415c37ΓÇª 1.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Aloha",
+        "Id":  "ARP\\User\\X64\\Aloha Mobile Aloha",
+        "Version":  "4.0.0.5"
+    },
+    {
+        "Name":  "Anaconda3 2024.10-1 (Python 3.12.7 64-bit) Anaconda.Anaconda3",
+        "Id":  "2024.10-1",
+        "Version":  "2025.06-0"
+    },
+    {
+        "Name":  "Discord",
+        "Id":  "Discord.Discord",
+        "Version":  "1.0.9175"
+    },
+    {
+        "Name":  "GitHub Desktop",
+        "Id":  "GitHub.GitHubDesktop",
+        "Version":  "3.5.0"
+    },
+    {
+        "Name":  "Postman x86_64 11.53.3",
+        "Id":  "Postman.Postman",
+        "Version":  "11.53.3"
+    },
+    {
+        "Name":  "Rufus",
+        "Id":  "Rufus.Rufus",
+        "Version":  "4.9"
+    },
+    {
+        "Name":  "Wondershare Filmora 14(Build 14.7.4.13259) Wondershare.Filmora",
+        "Id":  "Unknown",
+        "Version":  "14.7.17.13738"
+    },
+    {
+        "Name":  "Wondershare NativePush(Build 1.1.1.0)",
+        "Id":  "ARP\\User\\X64\\Wondershare NativePush_is1",
+        "Version":  "Unknown"
+    },
+    {
+        "Name":  "LosslessCut",
+        "Id":  "ch.LosslessCut",
+        "Version":  "3.64.0"
+    },
+    {
+        "Name":  "Microsoft Visual Studio Code (User)",
+        "Id":  "Microsoft.VisualStudioCode",
+        "Version":  "1.102.0"
+    },
+    {
+        "Name":  "UniGetUI",
+        "Id":  "MartiCliment.UniGetUI",
+        "Version":  "3.2.0"
+    },
+    {
+        "Name":  "WinDynamicDesktop 5.6.1 x64",
+        "Id":  "t1m0thyj.WinDynamicDesktop",
+        "Version":  "5.6.1"
+    },
+    {
+        "Name":  "Python 3.12.10 (64-bit)",
+        "Id":  "Python.Python.3.12",
+        "Version":  "3.12.10"
+    },
+    {
+        "Name":  "PowerToys (Preview) x64",
+        "Id":  "Microsoft.PowerToys",
+        "Version":  "0.92.0"
+    },
+    {
+        "Name":  "WhatsApp",
+        "Id":  "MSIX\\5319275A.WhatsAppDesktop_2.2526.2.0_ΓÇª 2.2526.2.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Adobe Acrobat",
+        "Id":  "MSIX\\AdobeAcrobatDCCoreApp_23.1.0.0_x64__ΓÇª 23.1.0.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Adobe Notification Client",
+        "Id":  "MSIX\\AdobeNotificationClient_6.0.0.1_x86_ΓÇª 6.0.0.1",
+        "Version":  ""
+    },
+    {
+        "Name":  "AMD Radeon Software",
+        "Id":  "MSIX\\AdvancedMicroDevicesInc-2.AMDRadeonSΓÇª 10.20.10028.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Dolby Atmos for Gaming",
+        "Id":  "MSIX\\DolbyLaboratories.DolbyAtmosforGaminΓÇª 3.20602.609.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Lenovo Companion",
+        "Id":  "MSIX\\E046963F.LenovoCompanion_10.2506.10.ΓÇª 10.2506.10.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Messenger",
+        "Id":  "MSIX\\FACEBOOK.317180B0BB486_2250.1.0.0_x6ΓÇª 2250.1.0.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Teams",
+        "Id":  "Microsoft.Teams",
+        "Version":  "25163.3611.3774.6ΓÇª"
+    },
+    {
+        "Name":  "AV1 Video Extension",
+        "Id":  "MSIX\\Microsoft.AV1VideoExtension_1.3.20.0ΓÇª 1.3.20.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "AVC Encoder Video Extension",
+        "Id":  "MSIX\\Microsoft.AVCEncoderVideoExtension_1ΓÇª 1.1.17.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "News",
+        "Id":  "MSIX\\Microsoft.BingNews_4.56.242.0_x64__8ΓÇª 4.56.242.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Bing",
+        "Id":  "MSIX\\Microsoft.BingSearch_1.1.37.0_x64__8ΓÇª 1.1.37.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "MSN Weather",
+        "Id":  "MSIX\\Microsoft.BingWeather_4.54.63007.0_xΓÇª 4.54.63007.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Command Palette",
+        "Id":  "MSIX\\Microsoft.CommandPalette_0.3.1822.0_ΓÇª 0.3.1822.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Copilot",
+        "Id":  "MSIX\\Microsoft.Copilot_1.25063.108.0_x64_ΓÇª 1.25063.108.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "App Installer",
+        "Id":  "Microsoft.AppInstaller",
+        "Version":  "1.26.400.0"
+    },
+    {
+        "Name":  "Microsoft Edge Game Assist",
+        "Id":  "MSIX\\Microsoft.Edge.GameAssist_1.0.3336.0ΓÇª 1.0.3336.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Xbox",
+        "Id":  "MSIX\\Microsoft.GamingApp_2506.1001.20.0_xΓÇª 2506.1001.20.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Get Help",
+        "Id":  "MSIX\\Microsoft.GetHelp_10.2409.22951.0_x6ΓÇª 10.2409.22951.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "HEIF Image Extension",
+        "Id":  "MSIX\\Microsoft.HEIFImageExtension_1.2.20.ΓÇª 1.2.20.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "MPEG-2 Video Extension",
+        "Id":  "MSIX\\Microsoft.MPEG2VideoExtension_1.2.10ΓÇª 1.2.10.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Edge",
+        "Id":  "MSIX\\Microsoft.MicrosoftEdge.Stable_137.0ΓÇª 137.0.3296.83",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft 365 Copilot",
+        "Id":  "MSIX\\Microsoft.MicrosoftOfficeHub_19.2507ΓÇª 19.2507.37101.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Solitaire \u0026 Casual Games",
+        "Id":  "MSIX\\Microsoft.MicrosoftSolitaireCollectiΓÇª 4.22.5200.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Sticky Notes",
+        "Id":  "MSIX\\Microsoft.MicrosoftStickyNotes_4.0.6ΓÇª 4.0.6104.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft .Net Native Runtime Package 2.0",
+        "Id":  "MSIX\\Microsoft.NET.Native.Runtime.2.0_2.0ΓÇª 2.0.25709.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft .Net Native Runtime Package 2.0",
+        "Id":  "MSIX\\Microsoft.NET.Native.Runtime.2.0_2.0ΓÇª 2.0.25709.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft .Net Native Runtime Package 2.2",
+        "Id":  "MSIX\\Microsoft.NET.Native.Runtime.2.2_2.2ΓÇª 2.2.28604.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft .Net Native Runtime Package 2.2",
+        "Id":  "MSIX\\Microsoft.NET.Native.Runtime.2.2_2.2ΓÇª 2.2.28604.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "OfficePushNotificationsUtility",
+        "Id":  "MSIX\\Microsoft.OfficePushNotificationUtilΓÇª 16.0.18827.20164",
+        "Version":  ""
+    },
+    {
+        "Name":  "OneDrive",
+        "Id":  "MSIX\\Microsoft.OneDriveSync_25115.615.2.0ΓÇª 25115.615.2.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Outlook for Windows",
+        "Id":  "MSIX\\Microsoft.OutlookForWindows_1.2024.1ΓÇª 1.2024.1216.300",
+        "Version":  ""
+    },
+    {
+        "Name":  "Paint",
+        "Id":  "MSIX\\Microsoft.Paint_11.2504.531.0_x64__8ΓÇª 11.2504.531.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft People",
+        "Id":  "MSIX\\Microsoft.People_10.2202.100.0_x64__ΓÇª 10.2202.100.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Power Automate",
+        "Id":  "MSIX\\Microsoft.PowerAutomateDesktop_1.0.1ΓÇª 1.0.1420.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Raw Image Extension",
+        "Id":  "MSIX\\Microsoft.RawImageExtension_2.5.5.0_ΓÇª 2.5.5.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Snipping Tool",
+        "Id":  "MSIX\\Microsoft.ScreenSketch_11.2504.42.0_ΓÇª 11.2504.42.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Security",
+        "Id":  "MSIX\\Microsoft.SecHealthUI_1000.27840.100ΓÇª 1000.27840.1000.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Engagement Framework",
+        "Id":  "MSIX\\Microsoft.Services.Store.Engagement_ΓÇª 10.0.23012.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Engagement Framework",
+        "Id":  "MSIX\\Microsoft.Services.Store.Engagement_ΓÇª 10.0.23012.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Store Experience Host",
+        "Id":  "MSIX\\Microsoft.StorePurchaseApp_22505.140ΓÇª 22505.1401.0.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft To Do",
+        "Id":  "MSIX\\Microsoft.Todos_0.148.3611.0_x64__8wΓÇª 0.148.3611.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft.UI.Xaml.2.7",
+        "Id":  "Microsoft.UI.Xaml.2.7",
+        "Version":  "7.2409.9001.0"
+    },
+    {
+        "Name":  "Microsoft.UI.Xaml.2.7",
+        "Id":  "Microsoft.UI.Xaml.2.7",
+        "Version":  "7.2409.9001.0"
+    },
+    {
+        "Name":  "Microsoft.UI.Xaml.2.8",
+        "Id":  "Microsoft.UI.Xaml.2.8",
+        "Version":  "8.2501.31001.0"
+    },
+    {
+        "Name":  "Microsoft.UI.Xaml.2.8",
+        "Id":  "Microsoft.UI.Xaml.2.8",
+        "Version":  "8.2501.31001.0"
+    },
+    {
+        "Name":  "Microsoft.UI.Xaml.2.8",
+        "Id":  "Microsoft.UI.Xaml.2.8",
+        "Version":  "8.2310.30001.0"
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2015 UWP Desktop RunΓÇª Microsoft.VCLibs.Desktop.14",
+        "Id":  "14.0.33728.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Visual C++ 2015 UWP Desktop RunΓÇª Microsoft.VCLibs.Desktop.14",
+        "Id":  "14.0.33728.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "VP9 Video Extensions",
+        "Id":  "MSIX\\Microsoft.VP9VideoExtensions_1.2.6.0ΓÇª 1.2.6.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Web Media Extensions",
+        "Id":  "MSIX\\Microsoft.WebMediaExtensions_1.2.14.ΓÇª 1.2.14.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WebP Image Extension",
+        "Id":  "MSIX\\Microsoft.WebpImageExtension_1.2.10.ΓÇª 1.2.10.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Widgets Platform Runtime",
+        "Id":  "MSIX\\Microsoft.WidgetsPlatformRuntime_1.6ΓÇª 1.6.9.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Advanced Settings",
+        "Id":  "MSIX\\Microsoft.Windows.DevHome_0.2101.858ΓÇª 0.2101.858.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Clock",
+        "Id":  "MSIX\\Microsoft.WindowsAlarms_1.1.29.0_x64ΓÇª 1.1.29.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.1",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.1_1005ΓÇª 1005.616.1651.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.1",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.1_1005ΓÇª 1005.616.1651.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.2",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.2_2000ΓÇª 2000.802.31.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.2",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.2_2000ΓÇª 2000.802.31.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.4",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.4_4000ΓÇª 4000.1309.2056.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.4",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.4_4000ΓÇª 4000.1309.2056.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.5",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.5_5001ΓÇª 5001.311.2039.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.5",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.5_5001ΓÇª 5001.311.2039.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.5",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.5_5001ΓÇª 5001.373.1736.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.5",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.5_5001ΓÇª 5001.373.1736.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.6",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000ΓÇª 6000.318.2304.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.6",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000ΓÇª 6000.373.1641.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.6",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000ΓÇª 6000.401.2352.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.6",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000ΓÇª 6000.424.1611.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.6",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000ΓÇª 6000.457.2140.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.6",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000ΓÇª 6000.486.517.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.6",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000ΓÇª 6000.519.329.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.6",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000ΓÇª 6000.519.329.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.7",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.7_7000ΓÇª 7000.498.2246.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.7",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.7_7000ΓÇª 7000.522.1444.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WindowsAppRuntime.1.7",
+        "Id":  "MSIX\\Microsoft.WindowsAppRuntime.1.7_7000ΓÇª 7000.522.1444.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Calculator",
+        "Id":  "MSIX\\Microsoft.WindowsCalculator_11.2502.ΓÇª 11.2502.2.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Camera",
+        "Id":  "MSIX\\Microsoft.WindowsCamera_2025.2505.2.ΓÇª 2025.2505.2.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Feedback Hub",
+        "Id":  "MSIX\\Microsoft.WindowsFeedbackHub_1.2505.ΓÇª 1.2505.1101.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Maps",
+        "Id":  "MSIX\\Microsoft.WindowsMaps_1.0.65.0_x64__ΓÇª 1.0.65.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Notepad",
+        "Id":  "MSIX\\Microsoft.WindowsNotepad_11.2504.62.ΓÇª 11.2504.62.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Sound Recorder",
+        "Id":  "MSIX\\Microsoft.WindowsSoundRecorder_1.1.5ΓÇª 1.1.5.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Store",
+        "Id":  "MSIX\\Microsoft.WindowsStore_22505.1401.17ΓÇª 22505.1401.17.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Terminal",
+        "Id":  "Microsoft.WindowsTerminal",
+        "Version":  "1.22.11751.0"
+    },
+    {
+        "Name":  "Xbox TCUI",
+        "Id":  "MSIX\\Microsoft.Xbox.TCUI_1.24.10001.0_x64ΓÇª 1.24.10001.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Xbox Game Bar Plugin",
+        "Id":  "MSIX\\Microsoft.XboxGameOverlay_1.54.4001.ΓÇª 1.54.4001.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Game Bar",
+        "Id":  "MSIX\\Microsoft.XboxGamingOverlay_7.325.51ΓÇª 7.325.5191.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Xbox Identity Provider",
+        "Id":  "MSIX\\Microsoft.XboxIdentityProvider_12.11ΓÇª 12.115.1001.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Game Speech Window",
+        "Id":  "MSIX\\Microsoft.XboxSpeechToTextOverlay_1.ΓÇª 1.97.17002.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Phone Link",
+        "Id":  "MSIX\\Microsoft.YourPhone_1.25061.44.0_x64ΓÇª 1.25061.44.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Media Player",
+        "Id":  "MSIX\\Microsoft.ZuneMusic_11.2505.2.0_x64_ΓÇª 11.2505.2.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Films \u0026 TV",
+        "Id":  "MSIX\\Microsoft.ZuneVideo_10.25051.10031.0ΓÇª 10.25051.10031.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Microsoft Family",
+        "Id":  "MSIX\\MicrosoftCorporationII.MicrosoftFamiΓÇª 0.2.40.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Quick Assist",
+        "Id":  "MSIX\\MicrosoftCorporationII.QuickAssist_2ΓÇª 2.0.36.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Windows Web Experience Pack",
+        "Id":  "MSIX\\MicrosoftWindows.Client.WebExperiencΓÇª 525.15301.20.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Cross Device Experience Host",
+        "Id":  "MSIX\\MicrosoftWindows.CrossDevice_1.25061ΓÇª 1.25061.25.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "NVIDIA Control Panel",
+        "Id":  "MSIX\\NVIDIACorp.NVIDIAControlPanel_8.1.96ΓÇª 8.1.968.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Notepad++",
+        "Id":  "MSIX\\NotepadPlusPlus_1.0.0.0_neutral__7njΓÇª 1.0.0.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Realtek Audio Control",
+        "Id":  "MSIX\\RealtekSemiconductorCorp.RealtekAudiΓÇª 1.1.137.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "Spotify - Music and Podcasts",
+        "Id":  "MSIX\\SpotifyAB.SpotifyMusic_1.267.560.0_xΓÇª 1.267.560.0",
+        "Version":  ""
+    },
+    {
+        "Name":  "WinRAR",
+        "Id":  "MSIX\\WinRAR.ShellExtension_1.0.0.2_x64__dΓÇª 1.0.0.2",
+        "Version":  ""
+    }
+]

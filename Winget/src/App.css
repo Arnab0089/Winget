@@ -1,0 +1,14 @@
+body {
+  background-color: #090040;
+}
+
+@media (min-width: 1024px) {
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+
+  .scrollbar-hidden {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
