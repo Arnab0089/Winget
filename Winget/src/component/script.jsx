@@ -289,6 +289,14 @@ $exportPackages = $exportJson.Sources[0].Packages`;
         </button>
       </motion.div>
 
+      <div className="text-sm sm:text-base md:text-lg text-yellow-500 font-bold capitalize mt-4 text-center">
+        <p>
+          In your system there is a json file with name of
+          "output_with_names.json"
+        </p>
+        <p>upload this file in this box</p>
+      </div>
+
       {/* {upload Box} */}
 
       <div className="mt-6">

@@ -9,6 +9,7 @@ import { ToastContainer } from 'react-toastify';
 import List from './component/myapp/List';
 import MyScript from './component/myapp/MyScript/MyScript';
 import FullScript from './component/myapp/MyScript/FullScript';
+import About from './component/about/about';
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
             <Route path="/myapps" element={<List />} />
             <Route path="/script/:id" element={<MyScript />} />
             <Route path="/rawfile/:id" element={<FullScript />} />
+            <Route path="/about" element={<About />} />
           </Routes>
         </div>
         <ToastContainer />
